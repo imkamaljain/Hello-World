@@ -20,7 +20,7 @@ This repository eventually contain the famous "Hello World" program in all the p
 ## How to make changes?
 
 - Check if the language in which you want to contribute is already covered or not?
-- Add code for your language with file name `HelloWorld.extension of your programming language` like `.c` for C, `py` for python.
+- Add code for your language with file name `HelloWorld.extension of your programming language` like `.c` for C, `.py` for python.
 
 ## Languages Covered
 
